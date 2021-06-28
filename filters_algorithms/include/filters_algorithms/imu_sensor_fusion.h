@@ -26,7 +26,7 @@ struct kalman_param
 class kalman
 {  private:
       kalman_param *param;
-      vec<float,2> state;//e.g (roll,d_roll previous state)
+      vec<float,2> state;//e.g (roll,bias previous state)
       float input;//(del_roll obtained from gyro)
       float meas;//obtained from magnetometer
    public:
