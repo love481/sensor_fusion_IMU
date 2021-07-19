@@ -1,6 +1,6 @@
 /******************
 *Author:Love Panta
-*gmail:075bei016.love@pcampuse.edu.np
+*gmail:075bei016.love@pcampus.edu.np
 *created:2021/6/10
 ******************/
 #pragma Once
