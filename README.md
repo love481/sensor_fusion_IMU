@@ -1,5 +1,5 @@
 # Sensor Fusion
-This repo consists of the code for fusing acceleration,gyroscope and magnetometer data using simple publisher and subscriber in ROS.You can also visualize the raw and clear data after performing required calibration and appying fusion algorithms. 
+This repo consists of the code for fusing acceleration,gyroscope and magnetometer data using simple publisher and subscriber in ROS.You can also visualize the raw and clear data after performing required calibration and applying fusion algorithms. 
 
 
 ## Installation
